@@ -105,19 +105,33 @@ https://dragonball-api.com/api/characters
 ---
 
 ## 7. Testplan
+✅ Z_Fighters.test.jsx
+➡️ Prüft, ob die Seite den Titel „Z Fighters“ korrekt anzeigt.
 
-- Startseite lädt API-Charaktere → OK  
-- Eigene Charaktere erscheinen nach Hinzufügen → OK  
-- Detailansicht funktioniert → OK  
-- Lösch- und Bearbeiten-Button nur bei eigenen Charakteren → OK  
-- Routing funktioniert auf allen Seiten → OK
+![Tests](public/docs/img/test.title.png)
+
+✅ Z_Fighters.extra.test.jsx
+➡️ Prüft, ob ein bestimmter Charakter wie „Goku“ angezeigt wird.
+
+![Tests](public/docs/img/test.character.png)
+
+✅ Z_Fighters.image.test.jsx
+➡️ Prüft, ob das Bild eines Charakters (z. B. alt="Goku") sichtbar ist.
+
+![Tests](public/docs/img/testimage.png)
+
+✅ Z_Fighters.multipleCards.test.jsx
+➡️ Prüft, ob mehrere Charakterkarten (z. B. 2 oder mehr) dargestellt werden.
+
+![Tests](public/docs/imgtest.multiplecard.png)
+
+✅ Z_Fighters.title.test.jsx
+➡️ Prüft, ob es ein <h2>-Titel mit dem Text „Z Fighters“ gibt – egal ob groß oder klein geschrieben.
 
 ---
-![Tests](public/docs/img/test.character.png)
-![Tests](public/docs/imgtest.multiplecard.png)
-![Tests](public/docs/img/test.title.png)
 ![Tests](public/docs/img/test.zfightersgross.png)
-![Tests](public/docs/img/testimage.png)
+
+
 ## 8. Installationsanleitung
 
 1. Projekt clonen oder entpacken  
