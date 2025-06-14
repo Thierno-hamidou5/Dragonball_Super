@@ -113,11 +113,11 @@ https://dragonball-api.com/api/characters
 - Routing funktioniert auf allen Seiten → OK
 
 ---
-![Tests](tests/Z_Fighters.extra.test.jsx)
-![Tests](tests/Z_Fighters.image.test.jsx)
-![Tests](tests/Z_Fighters.multipleCards.test.jsx)
-![Tests](tests/Z_Fighters.test.jsx)
-![Tests](tests/Z_Fighters.title.test.jsx)
+![Tests](public/docs/img/test.character.png)
+![Tests](public/docs/imgtest.multiplecard.png)
+![Tests](public/docs/img/test.title.png)
+![Tests](public/docs/img/test.zfightersgross.png)
+![Tests](public/docs/img/testimage.png)
 ## 8. Installationsanleitung
 
 1. Projekt clonen oder entpacken  
