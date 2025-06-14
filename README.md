@@ -65,8 +65,6 @@ Die zentrale Klasse ist `Character` mit den Attributen:
 - gender (String)  
 - affiliation (String)
 
-Diese werden als JavaScript-Objekte verarbeitet und je nach Quelle (API oder selbst erstellt) unterschiedlich behandelt.
-
 ![Klassendiagrammbild](public/docs/img/Klassendiagramm.png)
 ---
 
