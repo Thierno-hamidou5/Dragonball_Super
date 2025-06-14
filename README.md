@@ -80,6 +80,7 @@ Diese werden als JavaScript-Objekte verarbeitet und je nach Quelle (API oder sel
 
 ---
 
+![Storyboard]()
 ## 5. Screen-Mockups
 
 Die Applikation umfasst folgende Screens:
@@ -93,7 +94,7 @@ Die Applikation umfasst folgende Screens:
 Das Design orientiert sich an modernen Web-UIs mit klarer Struktur. Die Navigationsleiste ist stets sichtbar. Jede Seite nutzt ein eigenes Layout und eigene Komponenten. Die URL-Leiste sowie Seitentitel passen sich dynamisch an.
 
 ---
-
+![Mockups](public/docs/img/Screen_Mockups.png)
 ## 6. REST-Schnittstellen
 
 Verwendet wird die Dragonball REST API:  
@@ -114,7 +115,11 @@ https://dragonball-api.com/api/characters
 - Routing funktioniert auf allen Seiten → OK
 
 ---
-
+![Tests](tests/Z_Fighters.extra.test.jsx)
+![Tests](tests/Z_Fighters.image.test.jsx)
+![Tests](tests/Z_Fighters.multipleCards.test.jsx)
+![Tests](tests/Z_Fighters.test.jsx)
+![Tests](tests/Z_Fighters.title.test.jsx)
 ## 8. Installationsanleitung
 
 1. Projekt clonen oder entpacken  
